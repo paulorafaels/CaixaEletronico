@@ -1,8 +1,5 @@
 <resources>
-    <string name="app_name">ClienteP2</string>
-    <string name="busca_cliente">nome do cliente</string>
-    <string name="botao_busca">Buscar</string>
-    <string name="label_cliente_nome">Nome:</string>
-    <string name="label_cliente_fone">Fone:</string>
-    <string name="label_cliente_email">E-mail:</string>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="edit_message">Escreva uma mensagem</string>
+    <string name="button_send">Envie</string>
 </resources>
