@@ -7,13 +7,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="br.usjt.arqdesis.clientep2.controller.ListaClientesActivity">
+    tools:context=".controller.ListaClientesActivity">
 
     <ListView
+        android:id="@+id/lista_clientes"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/Lista_clientes"
-        android:fastScrollAlwaysVisible="true"/>
+        android:fastScrollEnabled="true">
 
-
+    </ListView>
 </LinearLayout>
